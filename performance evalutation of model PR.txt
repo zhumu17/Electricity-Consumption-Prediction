@@ -1,0 +1,5 @@
+observation location number: 1
+<MSE> train: 11443.763, validation: 20108.437, test: 247497.181
+<Average Accuracy> Y train:  0.811, validation: 0.781, test: -496.491
+<R^2> train: 0.757, validation: 0.888, test: 0.000
+
